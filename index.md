@@ -1,5 +1,5 @@
 ---
-title: The Polyverse Documentation
+title: Documentation
 ---
 ## Hi there 👋
 
