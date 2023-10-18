@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-## Welcome to the Polyverse
+### Welcome to the Polyverse
 
 1. Cosmic Fabric: Imagine a vast cosmic tapestry, each thread representing a different universe, all interwoven into a complex fabric of existence. Some threads are bright and vibrant, representing universes filled with energy and life, while others are dull or faded, perhaps representing dormant or dying universes.
 
