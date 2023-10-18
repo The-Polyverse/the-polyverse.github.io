@@ -1,3 +1,6 @@
+---
+title: The Polyverse Documentation
+---
 ## Hi there 👋
 
 ### Welcome to the Polyverse
